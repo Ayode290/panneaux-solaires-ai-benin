@@ -2,9 +2,6 @@
 
 Projet pour XPRIZE : Détection précoce des pannes de panneaux solaires au Bénin avec l'IA.
 
-## 🚀 Demo Live
-Tester l'application ici : https://amr.streamlit.app
-
 ## 📊 Aperçu
 ![Dashboard Demo](demo_dashboard.png)
 L'IA détecte un `Risque élevé` quand la température dépasse 80°C sur les données `data_splunk.csv`.
