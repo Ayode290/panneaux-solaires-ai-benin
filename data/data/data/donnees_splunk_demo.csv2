@@ -1,5 +1,0 @@
-timestamp,site_id,temperature_panneau,irradiance,puissance_kw
-2026-04-15T10:00:00Z,Site_A,72.5,850,4.2
-2026-04-15T11:00:00Z,Site_A,78.1,900,3.8
-2026-04-15T12:00:00Z,Site_A,81.3,920,3.1
-2026-04-15T13:00:00Z,Site_A,79.0,880,3.5
