@@ -1,7 +1,7 @@
 # Maintenance Prédictive - Panneaux Solaires AI Bénin
 
 Projet pour XPRIZE : Détection précoce des pannes de panneaux solaires au Bénin avec l'IA.
-
+Demo en live https://panneaux-solaires-ai-benin-5rw2qfe8la5rvkfxcjaamr.streamlit.app/
 ## 📊 Aperçu
 ![Dashboard Demo](demo_dashboard.png)
 L'IA détecte un `Risque élevé` quand la température dépasse 80°C sur les données `data_splunk.csv`.
